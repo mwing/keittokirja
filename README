@@ -1,1 +1,4 @@
-read me
+To create IDEA files, run:
+* sbt update
+* sbt idea
+
