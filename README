@@ -2,3 +2,5 @@ To create IDEA files, run:
 * sbt update
 * sbt idea
 
+To ignore common generated files, add the lines in file 'ignored' to your .git/info/exclude
+
